@@ -1,8 +1,8 @@
 {
-    "name": "wilson-chan/ipay88",
+    "name": "mengheang/ipay88",
     "description": "Ipay88 payment gateway module",
-    "keywords": ["ipay", "malaysia", "api"],
-    "homepage": "https://github.com/wilson-chan/ipay88",
+    "keywords": ["ipay", "Cambodia", "api"],
+    "homepage": "https://github.com/mengheangrat/ipay88-1",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Wilson Chan",
-            "email": "hychan1989@gmail.com"
+            "name": "Mengheang",
+            "email": "mr.mengheang@gmail.com"
         }
     ],
     "minimum-stability": "stable",
