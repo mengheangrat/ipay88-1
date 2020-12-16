@@ -1,8 +1,13 @@
-# IPay88
+# Need Integration with iPay88?
+### Contact me: 
+Phone: +85570377737
+email: mengheangrat@icloud.com
+
+## IPay88
 
 Ipay88 payment gateway module.
 
-**NOTE**: Your require to request demo account from techsupport@ipay88.com.my
+**NOTE**: Your require to request demo account from techsupport@ipay88.com.kh
 
 ## Installation
 
