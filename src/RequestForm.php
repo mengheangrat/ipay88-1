@@ -11,7 +11,7 @@ class RequestForm
 	public $paymentId = null;
 	public $refNo = null;
 
-	public __construct($args)
+	public function __construct($args)
 	{
 		$this->engine = new Mustache_Engine;
 	}

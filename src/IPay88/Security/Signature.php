@@ -11,7 +11,7 @@ class Signature
      * http://www.mobile88.com/epayment/testing/TestSignature.asp
      *
      * @access public
-     * 
+     *
      * accept arbitary amount of params
      * @example IPay88\Security\Signature::generateSignature($key,$code,$refNo,$amount,$currency,[, $status])
      */
@@ -31,7 +31,7 @@ class Signature
     private static function _hex2bin($source)
     {
     	$bin = null;
-    	for ($i=0; $i < strlen($source); $i=$i+2) { 
+    	for ($i=0; $i < strlen($source); $i=$i+2) {
     		$bin .= chr(hexdec(substr($source, $i, 2)));
     	}
     	return $bin;

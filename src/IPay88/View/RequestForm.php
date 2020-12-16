@@ -21,8 +21,7 @@ class RequestForm
 		    }
 		    window.onload = submitForm;
 		</script>
-
-		";		
+		";
 
 	}
 }
